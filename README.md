@@ -1,7 +1,7 @@
-SQL Views Demonstration
+#SQL Views Demonstration#
 This repository contains SQL scripts demonstrating the creation and usage of database views for abstraction and security purposes. The scripts are compatible with SQLite and MySQL databases.
 
-Objective
+#Objective#
 The primary objective of this project is to illustrate how to:
 
 Define views using complex SELECT statements.
@@ -10,19 +10,19 @@ Utilize views to achieve data abstraction, simplifying complex queries.
 
 Implement views for enhanced data security by restricting access to sensitive information.
 
-Tools
+#Tools#
 To run these SQL scripts, you will need a database management tool that supports SQLite or MySQL. Recommended tools include:
 
 DB Browser for SQLite: A lightweight, open-source tool for SQLite databases.
 
 MySQL Workbench: A comprehensive visual tool for MySQL development and administration.
 
-Deliverables
+#Deliverables#
 View Definitions: SQL statements for creating various views.
 
 Usage Examples: SQL queries demonstrating how to interact with the defined views.
 
-Getting Started
+#Getting Started#
 Follow these steps to set up and run the SQL scripts:
 
 1. Database Setup
